@@ -3,8 +3,7 @@
 <p align="center">
 <a><img src="https://img.shields.io/github/languages/top/Nanyuss/NayulDiscordBot"></a>
 <a href="https://github.com/Nanyuss/NayulDiscordBot/commits/master"><img src="https://img.shields.io/github/last-commit/Nanyuss/NayulDiscordBot"></a>
-<a href="LICENSE"><img src="https://img.shields.io/github/license/Nanyuss/NayulDiscordBot%20
-"></a>
+<a href="LICENSE"><img src="https://img.shields.io/github/license/Nanyuss/NayulDiscordBot%20"></a>
 </p>
 
 # 📋Sobre o projeto
