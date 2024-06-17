@@ -43,7 +43,7 @@ class MyBot(commands.Bot):
 			try:
 				self.owner_ids.add(int(owner))
 			except ValueError:
-				log.warning(f"Owner_ID Inválido: {owner}")
+				print(f"Owner_ID Inválido: {owner}")
 		
 	#Função que carrega todas as extensões (cogs).
 	async def load_cogs(self, path: str):
@@ -52,9 +52,9 @@ class MyBot(commands.Bot):
 				if file.endswith(".py"):
 					try:
 						await self.load_extension(os.path.join(root, file)[:-3].replace(os.path.sep, "."))
-						log.warning(f"✅Carregado {f!r} de {root[5:]!r}.")
+						print(f"✅Carregado {file!r} de {root[5:]!r}.")
 					except Exception:
-						log.error(f"❌Falha ao carregar {f!r} de {root[5:]!r}.", exc_info=True)
+						log.error(f"❌Falha ao carregar {file!r} de {root[5:]!r}.", exc_info=True)
 	
 	#Evento de configuração chamado enquanto a aplicação está se iniciando.
 	async def setup_hook(self):

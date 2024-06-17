@@ -1,0 +1,71 @@
+#Emojis de insígnias
+active_developer: "<:ActiveDeveloper:1182069200349565029>"
+verified_bot_developer: "<:VerifiedBotDeveloper:1182069658258509856>"
+hypesquad: "<:HypeSquad:1182073142181642271>"
+hypesquad_balance: "<:Balance:1182074808050126918>"
+hypesquad_bravery: "<:Bravery:1182074996080775188>"
+hypesquad_brilliance: "<:Brilliance:1182075786925195284>"
+partner: "<:Partner:1182077181183135745>"
+bug_hunter: "<:BugHunter:1182077499690192948>"
+bug_hunter_level_2: "<:GoldBugHunter:1182077680405971036>"
+early_supporter: "<:EarlySupporter:1182078645649547266>"
+staff: "<:Staff:1182079079327989820>"
+discord_certified_moderator: "<:ModeratorProgamsAlumini:1182079496795455538>"
+spammer: "<:SuspectSpammer:1182080096312496318>"
+verified_bot: "<:VerifiedApp:1246565915382775869>"
+unverified_bot: "<:App:1246564909555257386>"
+
+#Emojis de checagem.
+check: "<:check:1242254124763054101>"
+error: "<:erro:1242254206224826468>"
+
+# Emojis de Carregamento
+loading_v1: "<a:loading1:1208931413223804989>"
+loading_v2: "<a:loading2:1186020036868063353>"
+
+# Emojis de Navegação
+left: "<:Left:1186089258340057088>"
+right: "<:Right:1186089146545086574>"
+back: "<:voltar:1186087642597699755>"
+
+# Emojis de Membros
+new_member: "<:NewMember:1182117362045038642>"
+booster_lv1: "<:Booster:1182117508283650088>"
+crown: "<:Owner:1182117583953088562>"
+
+# Emojis de Icones Gerais
+icon_user: "<:User:1183067984793718957>"
+icon_settings: "<:Icon_Settings:1183064338920112141>"
+icon_role: "<:Icon_Role:1183060559260827659>"
+icon_emoji: "<:icon_emoji:1246273058843525190>"
+icon_edit: "<:Icon_Edit:1186020634724155513>"
+info: "<:information:1208766123382939670>"
+image: "<:Image:1186327164333850624>"
+splash: "<:splash:1208768951077576724>"
+banner: "<:banner:1208770654422175754>"
+settings_animated: "<a:settings_animated:1219806692242489495>"
+discord_icon: "<:discord_icon:1210000050839748629>"
+
+# Emojis de Ações
+add: "<:Add:1186081582122016848>"
+paper: "<:Paper:1186083029144317963>"
+annotation: "<:Annotation:1186083195934998609>"
+paleta: "<:Paleta:1186086881729970196>"
+list: "<:List:1186087189130510398>"
+footer: "<:Rodape:1186326288953253929>"
+delete: "<:Icon_Delete:1221545867681468536>"
+exportar: "<:exportar:1221477609519710228>"
+importar: "<:importar:1221477437901373581>"
+send: "<:Send:1186082280582692864>"
+webhook: "<:Webhook:1186081220258443305>"
+accept: "<:accept_:1237112999018369064>"
+reject: "<:reject:1237113064025886863>"
+
+# Emojis de Identificação
+id_icon: "<:id_icon:1245809118288154686>"
+members: "<:Members:1183068315225178133>"
+
+# Emojis de Categorias
+icon_calendar: "<:IconCalendar:1246277745508618370>"
+icon_category: "<:Category:1246285030070943784>"
+icon_badge: "<:HypeBadge:1247187068455489537>"
