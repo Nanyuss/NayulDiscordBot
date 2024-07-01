@@ -38,7 +38,7 @@ class CommandHandler(commands.Cog):
 			else:
 				message = f"{Emoji.error}┃Preciso das seguintes permissões para esse comando:\n**{perms}**"
 		
-		else: #Caso o erro não tenho um tratamento.
+		else: #Caso o erro não tenha um tratamento.
 			message = f"{Emoji.error}┃Erro desconhecido ao executar o comando!\n```{error}```"
 			log.exception("Erro no comando:", exc_info=error)
 			
